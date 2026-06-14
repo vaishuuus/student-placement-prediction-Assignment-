@@ -36,6 +36,10 @@ All credit for the dataset belongs to the original dataset creator.
 | Random Forest | 79.07% |
 | KNN | 79.07% |
 
+<img width="567" height="435" alt="image" src="https://github.com/user-attachments/assets/e2fc6206-2c5d-4339-846b-2bd3cd2b0487" />
+<img width="386" height="128" alt="linear regression classification report" src="https://github.com/user-attachments/assets/40f56697-95dc-45ad-98ec-1f81e0784f90" />
+
+
 ### Best Model
 Logistic Regression achieved the highest accuracy of 88.37%.
 
