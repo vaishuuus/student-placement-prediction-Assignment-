@@ -1,31 +1,31 @@
-# Student Placement Prediction Using Machine Learning
+undefined undefined
 
-## Objective
+undefined undefined
 Predict whether a student will be placed based on academic and personal factors.
 
-## Dataset Source
+undefined undefined
 
 Dataset: Campus Placement Dataset
 
-Source:
+undefined
 https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement
 
-The dataset is publicly available on Kaggle and is used solely for educational and research purposes.
-All credit for the dataset belongs to the original dataset creator.
+undefined
+undefined
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
+undefined undefined
+undefined undefined
+undefined undefined
+undefined undefined
+undefined undefined
+undefined undefined
+undefined undefined
 
-## Machine Learning Models
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- K-Nearest Neighbors (KNN)
+undefined undefined
+undefined undefined
+undefined undefined
+undefined undefined
+undefined undefined
 
 ## Results
 
@@ -38,6 +38,7 @@ All credit for the dataset belongs to the original dataset creator.
 
 <img width="567" height="435" alt="image" src="https://github.com/user-attachments/assets/e2fc6206-2c5d-4339-846b-2bd3cd2b0487" />
 <img width="386" height="128" alt="linear regression classification report" src="https://github.com/user-attachments/assets/40f56697-95dc-45ad-98ec-1f81e0784f90" />
+<img width="511" height="413" alt="image" src="https://github.com/user-attachments/assets/dae25a01-f9e6-4607-bd06-7b7716a92816" />
 
 
 ### Best Model
