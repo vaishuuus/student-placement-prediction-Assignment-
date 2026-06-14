@@ -44,12 +44,12 @@ Logistic Regression achieved the highest accuracy of 88.37%.
 - Correlation Heatmap
 - Model Comparison
 - Confusion Matrix
-- Feature Importance
 
+  
 ## Future Improvements
 - Hyperparameter Tuning
 - Cross Validation
 - Web Deployment using Streamlit
 
 ## Author
-Vaishnavi T
+Vaishnavi Thakur
