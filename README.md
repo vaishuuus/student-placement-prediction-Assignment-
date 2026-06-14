@@ -1,31 +1,31 @@
-undefined undefined
+# Student Placement Prediction Using Machine Learning
 
-undefined undefined
+## Objective
 Predict whether a student will be placed based on academic and personal factors.
 
-undefined undefined
+## Dataset Source
 
 Dataset: Campus Placement Dataset
 
-undefined
+Source:
 https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement
 
-undefined
-undefined
+The dataset is publicly available on Kaggle and is used solely for educational and research purposes.
+All credit for the dataset belongs to the original dataset creator.
 
-undefined undefined
-undefined undefined
-undefined undefined
-undefined undefined
-undefined undefined
-undefined undefined
-undefined undefined
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
 
-undefined undefined
-undefined undefined
-undefined undefined
-undefined undefined
-undefined undefined
+## Machine Learning Models
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors (KNN)
 
 ## Results
 
