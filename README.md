@@ -46,7 +46,15 @@ Logistic Regression achieved the highest accuracy of 88.37%.
 
 ## Visualizations
 - Placement Distribution
+- <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/fdbab02b-0095-4698-8bfb-0b43b07b073d" />
+<img width="563" height="432" alt="image" src="https://github.com/user-attachments/assets/06d4b645-7d0a-43e4-9350-9f350954821f" />
+<img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/7e27a00d-1b3a-4ea9-a5a2-4d33234c1a4b" />
+
+
 - Correlation Heatmap
+  <img width="566" height="469" alt="image" src="https://github.com/user-attachments/assets/7422d6ee-6a7d-4e32-9097-e984dfa92dd1" />
+
+
 - Model Comparison
 - Confusion Matrix
 
